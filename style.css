@@ -24,3 +24,6 @@ blockquote p { margin-bottom: 4px; }
 cite { font-style: normal; color: #888; }
 
 a { color: #111; }
+
+footer { margin-top: 64px; color: #888; }
+footer a { color: #888; }
